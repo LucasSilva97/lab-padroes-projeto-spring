@@ -8,7 +8,7 @@ Colocar em prática os conceitos de Padrões de Projeto, utilizando a linguagem 
 
 #### Tecnologias Utilizadas
 
-- Java -> OpenJDK 17 (jakarta)
+- Java
 - IDE: Eclipse
 - Maven
 - Spring Framework
